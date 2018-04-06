@@ -1,0 +1,18 @@
+WARNING: This command does not appear to be running with administrative rights.
+  Some commands may fail e.g. Start/Stop
+2018-04-06 06:14:10.592+0000 INFO  ======== Neo4j 3.3.4 ========
+2018-04-06 06:14:10.693+0000 INFO  Starting...
+2018-04-06 06:14:14.607+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2018-04-06 06:14:14.630+0000 INFO  Initiating metrics...
+2018-04-06 06:14:24.825+0000 INFO  Started.
+2018-04-06 06:14:25.411+0000 INFO  Mounted REST API at: /db/manage
+2018-04-06 06:14:27.683+0000 INFO  Remote interface available at http://localhost:7474/
+WARNING: This command does not appear to be running with administrative rights.
+  Some commands may fail e.g. Start/Stop
+2018-04-06 11:29:06.062+0000 INFO  ======== Neo4j 3.3.4 ========
+2018-04-06 11:29:06.180+0000 INFO  Starting...
+2018-04-06 11:29:09.239+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2018-04-06 11:29:09.336+0000 INFO  Initiating metrics...
+2018-04-06 11:29:38.531+0000 INFO  Started.
+2018-04-06 11:29:40.884+0000 INFO  Mounted REST API at: /db/manage
+2018-04-06 11:29:46.315+0000 INFO  Remote interface available at http://localhost:7474/
